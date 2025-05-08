@@ -34,3 +34,20 @@ print(type({"nombre":"juan"}))
 print(type(3<2))
 print(type({1,2,3,4,5,6,7,8}))
 print({1,2,3,4,5,6,7,8})
+
+first_name= "jorge"
+last_name = "gonzalez"
+full_name = "jorge muñoz"
+country = "argentina"
+ciudad = "santiago"
+edad = 30
+year = 2025
+is_married = True
+is_true = True
+is_light_on = True
+variables = ciudad + " " + country
+
+lista = [1,2,3,4,5,6,7]
+print(len(lista))
+
+print(len(456)) #genera un error porque a los numeros no se les puede sacar el tamaño, debe ser un alista para sacar el len
