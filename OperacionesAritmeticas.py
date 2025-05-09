@@ -51,3 +51,6 @@ lista = [1,2,3,4,5,6,7]
 print(len(lista))
 
 print(len(456)) #genera un error porque a los numeros no se les puede sacar el tamaño, debe ser un alista para sacar el len
+
+
+
