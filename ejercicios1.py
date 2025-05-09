@@ -62,6 +62,10 @@ r = float(input("radio menor"))
 area = m.pi * (R**2 - r**2)
 print(f"el area de anillo es : {area:.3f}") """
 
-df = pd.read_csv()
+df = pd.read_csv('cronograma.csv')
 print("las priemras lineas 5 filas en mi csv")
-print(df.head())
+print(df.head()) 
+
+
+
+
