@@ -69,3 +69,5 @@ print(df.head())
 
 
 
+lista = ["auto", "rt2345", "rojo"]
+
